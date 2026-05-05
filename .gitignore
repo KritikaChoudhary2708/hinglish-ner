@@ -9,3 +9,4 @@ models/
 *.egg-info/
 .ipynb_checkpoints/
 hinglish-env/
+.env

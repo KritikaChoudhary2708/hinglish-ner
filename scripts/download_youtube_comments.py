@@ -7,8 +7,10 @@ import json
 import os
 import time
 from googleapiclient.discovery import build
+from dotenv import load_dotenv
 
-API_KEY = "AIzaSyDT5qY2sJwXsjBYNBScDEdObhvqUpkj0-E"
+load_dotenv()
+API_KEY = os.getenv("YOUTUBE_API_KEY")
 
 # YouTube video IDs — mix of IPL, Bollywood, Hindi news (rich Hinglish source)
 VIDEO_IDS = [
