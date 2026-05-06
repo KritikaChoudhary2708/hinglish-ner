@@ -8,6 +8,8 @@ import os
 import time
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
+import random
+
 
 load_dotenv()
 API_KEY = os.getenv("YOUTUBE_API_KEY")
@@ -69,7 +71,9 @@ def main():
         print(f"  Collected {len(comments)} comments")
         all_comments.extend(comments)
         time.sleep(1)
-
+    
+    random.seed(42)
+    random.shuffle(all_comments)
     # Deduplicate by text
     seen = set()
     unique = []
