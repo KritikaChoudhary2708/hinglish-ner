@@ -42,7 +42,7 @@ print(f"Split: Train={len(train_set)} | Val={len(val_set)} | Test={len(test_set)
 
 # Convert to spacy docbin
 
-nlp = spacy.blank("hi")
+nlp = spacy.blank("xx")
 
 def make_docbin(tasks):
           db = DocBin()

@@ -12,7 +12,7 @@ THRESHOLD = 0.35
 #Load test
 
 print("Load test set")
-nlp = spacy.blank("hi")
+nlp = spacy.blank("xx")
 db = DocBin().from_disk(TEST_PATH)
 test_docs = list(db.get_docs(nlp.vocab))
 
