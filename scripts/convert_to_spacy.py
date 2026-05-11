@@ -8,6 +8,7 @@ from spacy.util import filter_spans
 
 ROOT = Path(__file__).resolve().parent.parent
 INPUT = ROOT/ "data/annotated/annotations.json"
+INPUT_TEST = ROOT / "data/annotated/annotations_test.json"
 OUT_DIR = ROOT/"data/processed"
 SPLIT = (0.8,0.1,0.1)
 SEED=42
@@ -16,18 +17,20 @@ SEED=42
 print(f"Loading annotations from {INPUT}")
 with open(INPUT, encoding = "utf-8") as f:
           raw = json.load(f)
+with open(INPUT_TEST, encoding = "utf-8") as f:
+          raw_test = json.load(f)
 
 #filtering label and non label entitites
 
 labeled = [t for t in raw if "label" in t and t['label']]
 unlabeled = [t for t in raw if "label" not in t or not t['label']]
-
 print(f"Found {len(labeled)} labeled tasks and {len(unlabeled)} unlabeled tasks. Total = {len(raw)}")
 
 all_tasks = labeled + unlabeled
 random.seed(SEED)
 random.shuffle(all_tasks)
-
+random.seed(SEED)
+random.shuffle(raw_test)
 #split
 
 n = len(all_tasks)
@@ -36,7 +39,7 @@ n_val = int(n*SPLIT[1])
 
 train_set = all_tasks[:n_train]
 val_set = all_tasks[n_train : n_train + n_val]
-test_set = all_tasks[n_train + n_val:]
+test_set = raw_test
 
 print(f"Split: Train={len(train_set)} | Val={len(val_set)} | Test={len(test_set)}")
 
@@ -80,7 +83,7 @@ print(f"\nSaved to {OUT_DIR}")
 
 db_check = DocBin().from_disk(OUT_DIR/'train.spacy')
 docs = list(db_check.get_docs(nlp.vocab))
-
+counts = Counter(ent.label_ for doc in docs for ent in doc.ents)
 for d in docs[:3]:
           print(d.text)
           print(d.ents)

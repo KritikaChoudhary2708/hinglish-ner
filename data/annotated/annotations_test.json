@@ -1,0 +1,1059 @@
+[
+{
+  "text": "Poune  aakh waala baba kya backwas kar rha hai ji",
+  "id": 365,
+  "label": [
+    {
+      "start": 18,
+      "end": 22,
+      "text": "baba",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2158,
+  "created_at": "2026-05-11T15:57:24.581100Z",
+  "updated_at": "2026-05-11T15:57:24.581113Z",
+  "lead_time": 9.794
+},
+{
+  "text": "I love him 😍 I am big fan of him .. sartaj nhi suro k Sartaj 🎉",
+  "id": 625,
+  "label": [
+    {
+      "start": 36,
+      "end": 42,
+      "text": "sartaj",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2159,
+  "created_at": "2026-05-11T15:57:45.920926Z",
+  "updated_at": "2026-05-11T15:57:45.920937Z",
+  "lead_time": 25.113
+},
+{
+  "text": "Sartaaj banna aasaan nahi...",
+  "id": 659,
+  "label": [
+    {
+      "start": 0,
+      "end": 7,
+      "text": "Sartaaj",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2160,
+  "created_at": "2026-05-11T15:58:08.675481Z",
+  "updated_at": "2026-05-11T15:58:08.675494Z",
+  "lead_time": 3.537
+},
+{
+  "text": "Sbhi collector logo ko meri tarf se jya Ram Ji ki 🌹🙏",
+  "id": 660,
+  "label": [
+    {
+      "start": 5,
+      "end": 14,
+      "text": "collector",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 40,
+      "end": 43,
+      "text": "Ram",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 1159,
+  "created_at": "2026-05-08T18:54:03.378402Z",
+  "updated_at": "2026-05-11T15:58:23.411992Z",
+  "lead_time": 23.698999999999998
+},
+{
+  "text": "Sbhi collector logo ko meri tarf se jya Ram Ji ki 🌹🙏",
+  "id": 660,
+  "label": [
+    {
+      "start": 40,
+      "end": 46,
+      "text": "Ram Ji",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 1158,
+  "created_at": "2026-05-08T18:53:50.794542Z",
+  "updated_at": "2026-05-08T18:53:50.794589Z",
+  "lead_time": 6.784
+},
+{
+  "text": "Sir online class kab lagenge",
+  "id": 664,
+  "label": [
+    {
+      "start": 0,
+      "end": 3,
+      "text": "Sir",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2161,
+  "created_at": "2026-05-11T15:58:29.671053Z",
+  "updated_at": "2026-05-11T15:58:29.671065Z",
+  "lead_time": 0.967
+},
+{
+  "text": "L lag gaye maja maro....ab Bengal bhi khub teji se taraki kare ga...😂😊",
+  "id": 724,
+  "label": [
+    {
+      "start": 27,
+      "end": 33,
+      "text": "Bengal",
+      "labels": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2162,
+  "created_at": "2026-05-11T15:59:15.208871Z",
+  "updated_at": "2026-05-11T15:59:15.208882Z",
+  "lead_time": 2.582
+},
+{
+  "text": "Sir Mera bhi sapna Ias banne ka",
+  "id": 731,
+  "label": [
+    {
+      "start": 19,
+      "end": 22,
+      "text": "Ias",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2163,
+  "created_at": "2026-05-11T15:59:25.338896Z",
+  "updated_at": "2026-05-11T15:59:25.338908Z",
+  "lead_time": 5.628
+},
+{
+  "text": "Ye khush isiliye hai kynki iske patanji yogpeeth ko zameen mil jaaye free mein",
+  "id": 762,
+  "label": [
+    {
+      "start": 32,
+      "end": 39,
+      "text": "patanji",
+      "labels": [
+        "PRODUCT"
+      ]
+    },
+    {
+      "start": 40,
+      "end": 48,
+      "text": "yogpeeth",
+      "labels": [
+        "PRODUCT"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2164,
+  "created_at": "2026-05-11T16:00:01.916824Z",
+  "updated_at": "2026-05-11T16:00:01.916837Z",
+  "lead_time": 9.771
+},
+{
+  "text": "King a True One\nKing in the North",
+  "id": 771,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "King",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 16,
+      "end": 20,
+      "text": "King",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 28,
+      "end": 33,
+      "text": "North",
+      "labels": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2165,
+  "created_at": "2026-05-11T16:00:11.866566Z",
+  "updated_at": "2026-05-11T16:00:11.866581Z",
+  "lead_time": 4.621
+},
+{
+  "text": "Jab kanoon aur samvidhan sabse bada hai to baar farjiwada kiyu karte ho lala ramdev milawat kiyu karte ho",
+  "id": 791,
+  "label": [
+    {
+      "start": 77,
+      "end": 83,
+      "text": "ramdev",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2166,
+  "created_at": "2026-05-11T16:00:27.168190Z",
+  "updated_at": "2026-05-11T16:00:27.168201Z",
+  "lead_time": 3.907
+},
+{
+  "text": "Sir, I live in a small village in West Bengal, my father has passed away 😔, my mother cannot afford to pay so much money for online teaching, you are my last hope, please help me🙏, I will be grateful to you for the rest of my life.",
+  "id": 796,
+  "label": [
+    {
+      "start": 0,
+      "end": 3,
+      "text": "Sir",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 30,
+      "text": "small village",
+      "labels": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 45,
+      "text": "West Bengal",
+      "labels": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start": 181,
+      "end": 182,
+      "text": "I",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2167,
+  "created_at": "2026-05-11T16:00:36.635037Z",
+  "updated_at": "2026-05-11T16:00:36.635053Z",
+  "lead_time": 22.362000000000002
+},
+{
+  "text": "Main tumhara video pahli bar dekh raha hun tumhari CSK se kyon jalti hai 😢",
+  "id": 804,
+  "label": [
+    {
+      "start": 51,
+      "end": 54,
+      "text": "CSK",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2168,
+  "created_at": "2026-05-11T16:00:50.832392Z",
+  "updated_at": "2026-05-11T16:00:50.832404Z",
+  "lead_time": 7.401
+},
+{
+  "text": "Sir Mai bhi aapka class karna chahti hu mera  per mera pariwar bahut garib h aur mai chahti hu IAS ka taiyari karna chahti hu esliye aap meri madad kariye sir please sir",
+  "id": 828,
+  "label": [
+    {
+      "start": 0,
+      "end": 3,
+      "text": "Sir",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 95,
+      "end": 98,
+      "text": "IAS",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 133,
+      "end": 136,
+      "text": "aap",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 155,
+      "end": 158,
+      "text": "sir",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 166,
+      "end": 169,
+      "text": "sir",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2169,
+  "created_at": "2026-05-11T16:01:09.716875Z",
+  "updated_at": "2026-05-11T16:01:09.716889Z",
+  "lead_time": 11.481
+},
+{
+  "text": "Kolkata Sarkar se gujarish hai ki jitne Hindu Muslim Hai sabko baitha kar ke ek Sath meeting Banakar ke jitne Upadhyay Bangladeshi Aaye Hain unko jald se jald khareed Diya jaaye",
+  "id": 836,
+  "label": [
+    {
+      "start": 0,
+      "end": 7,
+      "text": "Kolkata",
+      "labels": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2170,
+  "created_at": "2026-05-11T16:01:29.317143Z",
+  "updated_at": "2026-05-11T16:01:29.317155Z",
+  "lead_time": 13.417
+},
+{
+  "text": "Frubon kulhad kahaniya lassi 1 missing I receive 1 number. iPad 2 lassi",
+  "id": 847,
+  "label": [
+    {
+      "start": 59,
+      "end": 65,
+      "text": "iPad 2",
+      "labels": [
+        "PRODUCT"
+      ]
+    },
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Frubon",
+      "labels": [
+        "PRODUCT"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2171,
+  "created_at": "2026-05-11T16:01:51.575872Z",
+  "updated_at": "2026-05-11T16:01:51.575884Z",
+  "lead_time": 16.61
+},
+{
+  "text": "Daroga ki taiyari kaise kare",
+  "id": 894,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Daroga",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2172,
+  "created_at": "2026-05-11T16:02:29.617661Z",
+  "updated_at": "2026-05-11T16:02:29.617673Z",
+  "lead_time": 3.077
+},
+{
+  "text": "Chopra air Siddhu ko hatao pehle",
+  "id": 1100,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Chopra",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 11,
+      "end": 17,
+      "text": "Siddhu",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2173,
+  "created_at": "2026-05-11T16:04:54.282398Z",
+  "updated_at": "2026-05-11T16:04:54.282412Z",
+  "lead_time": 9.008
+},
+{
+  "text": "दलाली कम करो रे राम देवा।।",
+  "id": 1253,
+  "label": [
+    {
+      "start": 16,
+      "end": 24,
+      "text": "राम देवा",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2174,
+  "created_at": "2026-05-11T16:05:38.676247Z",
+  "updated_at": "2026-05-11T16:05:38.676259Z",
+  "lead_time": 4.879
+},
+{
+  "text": "Aap galat bol rahe 20over ke match me agr serious comentry hogi to log bor ho jaynge  ipl me to entertainment jaruri ,,, 🤙",
+  "id": 1376,
+  "label": [
+    {
+      "start": 86,
+      "end": 89,
+      "text": "ipl",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2175,
+  "created_at": "2026-05-11T16:06:06.306227Z",
+  "updated_at": "2026-05-11T16:06:06.306241Z",
+  "lead_time": 3.943
+},
+{
+  "text": "I am preparing for Haryana Group D and looking at the strategy for UPSC.\nलगता है अंत नज़दीक है 😅",
+  "id": 1483,
+  "label": [
+    {
+      "start": 19,
+      "end": 26,
+      "text": "Haryana",
+      "labels": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 71,
+      "text": "UPSC",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 1739,
+  "created_at": "2026-05-10T05:33:55.528487Z",
+  "updated_at": "2026-05-11T16:06:53.397829Z",
+  "lead_time": 14.925
+},
+{
+  "text": "I am preparing for Haryana Group D and looking at the strategy for UPSC.\nलगता है अंत नज़दीक है 😅",
+  "id": 1483,
+  "label": [
+    {
+      "start": 19,
+      "end": 26,
+      "text": "Haryana",
+      "labels": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 71,
+      "text": "UPSC",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 1738,
+  "created_at": "2026-05-10T05:33:51.351272Z",
+  "updated_at": "2026-05-10T05:33:51.351289Z",
+  "lead_time": 8.648
+},
+{
+  "text": "Jay Shri Ram Jay Shri Ram ❤❤",
+  "id": 1498,
+  "label": [
+    {
+      "start": 9,
+      "end": 12,
+      "text": "Ram",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 25,
+      "text": "Ram",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2176,
+  "created_at": "2026-05-11T16:07:16.360902Z",
+  "updated_at": "2026-05-11T16:07:16.360916Z",
+  "lead_time": 8.896
+},
+{
+  "text": "खान सर बोत अच्छा पढ़ा था है",
+  "id": 1561,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "खान सर",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2157,
+  "created_at": "2026-05-11T15:57:14.871201Z",
+  "updated_at": "2026-05-11T15:57:14.871214Z",
+  "lead_time": 11.415
+},
+{
+  "text": "Bhai lagta hai..mistakenly Villain ki jagah Hero likh diya..Kans Mama..Shakuni Mama aur phir aaya Kukreja Mama..",
+  "id": 1763,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "Bhai",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 69,
+      "text": "Kans Mama",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 71,
+      "end": 83,
+      "text": "Shakuni Mama",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 98,
+      "end": 110,
+      "text": "Kukreja Mama",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2177,
+  "created_at": "2026-05-11T16:08:55.109920Z",
+  "updated_at": "2026-05-11T16:08:55.109935Z",
+  "lead_time": 10.555
+},
+{
+  "text": "He has so much knowledge of his craft, Wahe Guruji bless him",
+  "id": 1800,
+  "label": [
+    {
+      "start": 39,
+      "end": 50,
+      "text": "Wahe Guruji",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2178,
+  "created_at": "2026-05-11T16:09:28.715548Z",
+  "updated_at": "2026-05-11T16:09:28.715562Z",
+  "lead_time": 2.124
+},
+{
+  "text": "Maturity is what when you realise that watching ipl not just only wasting time  cricketer earning crore and watcher still poor 😂😂😂",
+  "id": 1837,
+  "label": [
+    {
+      "start": 48,
+      "end": 51,
+      "text": "ipl",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2179,
+  "created_at": "2026-05-11T16:09:59.329673Z",
+  "updated_at": "2026-05-11T16:09:59.329684Z",
+  "lead_time": 13.276
+},
+{
+  "text": "Jao ab bangal ko adani ambani ko bacho",
+  "id": 1919,
+  "label": [
+    {
+      "start": 17,
+      "end": 22,
+      "text": "adani",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 29,
+      "text": "ambani",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 7,
+      "end": 13,
+      "text": "bangal",
+      "labels": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2180,
+  "created_at": "2026-05-11T16:10:40.165780Z",
+  "updated_at": "2026-05-11T16:10:40.165791Z",
+  "lead_time": 6.859
+},
+{
+  "text": "सर मुझे ऑनलाइन फ्री यूपीएससी की जीरो से तैयारी क्या करें  कहा से मुझे 2026 की परीक्षा देनी है प्लीज सर \nमेरी ज़िम्मेदारी खूब मन लगाकर पढ़ाई करूंगा और सफलता भी पाऊंगा, पैसे ना होने से मैं ऑफलाइन क्लास नहीं ले रहा हूं प्लीज सर सपोर्ट करें प्लीज  ना ऑनलाइन शुल्क क्लास 🙏 मेरे पिता जी की शान है मान गुरुयो का अभिमान है प्लीज सर",
+  "id": 2024,
+  "label": [
+    {
+      "start": 0,
+      "end": 2,
+      "text": "सर",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 70,
+      "end": 74,
+      "text": "2026",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 100,
+      "end": 102,
+      "text": "सर",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 222,
+      "end": 224,
+      "text": "सर",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 321,
+      "end": 323,
+      "text": "सर",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2181,
+  "created_at": "2026-05-11T16:11:25.492693Z",
+  "updated_at": "2026-05-11T16:11:25.492706Z",
+  "lead_time": 4.814
+},
+{
+  "text": "Jai ho श्रद्धेय baba ramdev ji 🙏🏼🙏🏼🙏🏼💐💐💐💐💐❤️❤️❤️❤️❤️❤️",
+  "id": 2029,
+  "label": [
+    {
+      "start": 16,
+      "end": 30,
+      "text": "baba ramdev ji",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2182,
+  "created_at": "2026-05-11T16:11:33.626477Z",
+  "updated_at": "2026-05-11T16:11:33.626492Z",
+  "lead_time": 6.978
+},
+{
+  "text": "Ambrish Verma ❤❤ this man is Gem ❤❤",
+  "id": 2098,
+  "label": [
+    {
+      "start": 0,
+      "end": 13,
+      "text": "Ambrish Verma",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2183,
+  "created_at": "2026-05-11T16:11:59.332180Z",
+  "updated_at": "2026-05-11T16:11:59.332191Z",
+  "lead_time": 1.535
+},
+{
+  "text": "2027 batch koii batao",
+  "id": 2099,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "2027",
+      "labels": [
+        "DATE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2184,
+  "created_at": "2026-05-11T16:12:01.595898Z",
+  "updated_at": "2026-05-11T16:12:01.595911Z",
+  "lead_time": 1.195
+},
+{
+  "text": "SARTAAJ JI Salam hai aapko.\nYou are the best. So humble person you are.\nHameaha khush raho ye dua hai meri",
+  "id": 2106,
+  "label": [
+    {
+      "start": 0,
+      "end": 10,
+      "text": "SARTAAJ JI",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2185,
+  "created_at": "2026-05-11T16:12:12.636295Z",
+  "updated_at": "2026-05-11T16:12:12.636307Z",
+  "lead_time": 4.137
+},
+{
+  "text": "Also Vivek Rajdhan's iconic lines, 'tuta hain GABA ka ghamand' also deserve mention",
+  "id": 2108,
+  "label": [
+    {
+      "start": 5,
+      "end": 18,
+      "text": "Vivek Rajdhan",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2186,
+  "created_at": "2026-05-11T16:12:16.628418Z",
+  "updated_at": "2026-05-11T16:12:16.628432Z",
+  "lead_time": 1.849
+},
+{
+  "text": "Next vote for Diljeet Dosanjh",
+  "id": 2113,
+  "label": [
+    {
+      "start": 14,
+      "end": 29,
+      "text": "Diljeet Dosanjh",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2187,
+  "created_at": "2026-05-11T16:12:21.150003Z",
+  "updated_at": "2026-05-11T16:12:21.150016Z",
+  "lead_time": 0.96
+},
+{
+  "text": "Mujhe v batch lena hai UPSC KA",
+  "id": 2114,
+  "label": [
+    {
+      "start": 23,
+      "end": 27,
+      "text": "UPSC",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2188,
+  "created_at": "2026-05-11T16:12:25.869178Z",
+  "updated_at": "2026-05-11T16:12:25.869189Z",
+  "lead_time": 3.621
+},
+{
+  "text": "In matches of mi and kkr they talk about msd just only for trp what the fuck",
+  "id": 2117,
+  "label": [
+    {
+      "start": 14,
+      "end": 16,
+      "text": "mi",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 21,
+      "end": 24,
+      "text": "kkr",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 41,
+      "end": 44,
+      "text": "msd",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 59,
+      "end": 62,
+      "text": "trp",
+      "labels": [
+        "PRODUCT"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2189,
+  "created_at": "2026-05-11T16:12:51.406149Z",
+  "updated_at": "2026-05-11T16:12:51.406161Z",
+  "lead_time": 20.553
+},
+{
+  "text": "Hindi tati Commentry english best ❤great ever❤ willow tv enjoy IPL 60fps",
+  "id": 2118,
+  "label": [
+    {
+      "start": 63,
+      "end": 66,
+      "text": "IPL",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2190,
+  "created_at": "2026-05-11T16:12:57.930181Z",
+  "updated_at": "2026-05-11T16:12:57.930195Z",
+  "lead_time": 5.567
+},
+{
+  "text": "The couplet that Sir Satindar is talking about is “ \nKhushtagaan-e- khanjar-e- tasleem raa\nHer zamaan uz gheb jaane deegar ast\n\nThis means “ those who are slain by the dagger of surrender, receive a new life at every moment. From the Unseen”",
+  "id": 2119,
+  "label": [
+    {
+      "start": 17,
+      "end": 29,
+      "text": "Sir Satindar",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2191,
+  "created_at": "2026-05-11T16:13:00.986930Z",
+  "updated_at": "2026-05-11T16:13:00.986942Z",
+  "lead_time": 2.077
+},
+{
+  "text": "Sir upsc ki preparation kaise kre",
+  "id": 2120,
+  "label": [
+    {
+      "start": 4,
+      "end": 8,
+      "text": "upsc",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2192,
+  "created_at": "2026-05-11T16:13:07.034102Z",
+  "updated_at": "2026-05-11T16:13:07.034299Z",
+  "lead_time": 4.868
+},
+{
+  "text": "Proud of you from hoshiarpur pajji",
+  "id": 2121,
+  "label": [
+    {
+      "start": 18,
+      "end": 28,
+      "text": "hoshiarpur",
+      "labels": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2193,
+  "created_at": "2026-05-11T16:13:12.357560Z",
+  "updated_at": "2026-05-11T16:13:12.357572Z",
+  "lead_time": 4.104
+},
+{
+  "text": "Sehwag harbhajan ryudu simply frustrating during commentry. Worst",
+  "id": 2124,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Sehwag",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 7,
+      "end": 16,
+      "text": "harbhajan",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 22,
+      "text": "ryudu",
+      "labels": [
+        "PERSON"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2194,
+  "created_at": "2026-05-11T16:13:30.699776Z",
+  "updated_at": "2026-05-11T16:13:30.699787Z",
+  "lead_time": 15.552
+},
+{
+  "text": "Kon kon UPSC de Raha hai",
+  "id": 2130,
+  "label": [
+    {
+      "start": 8,
+      "end": 12,
+      "text": "UPSC",
+      "labels": [
+        "ORG"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2195,
+  "created_at": "2026-05-11T16:13:42.124755Z",
+  "updated_at": "2026-05-11T16:13:42.124767Z",
+  "lead_time": 3.287
+}
+]
